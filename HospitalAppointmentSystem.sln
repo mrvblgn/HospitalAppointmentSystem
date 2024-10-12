@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAppointmentSystem.WebApi", "HospitalAppointmentSystem.WebApi\HospitalAppointmentSystem.WebApi.csproj", "{70D4FE2F-EEF6-49F9-9847-BB50792F0A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D4FE2F-EEF6-49F9-9847-BB50792F0A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D4FE2F-EEF6-49F9-9847-BB50792F0A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D4FE2F-EEF6-49F9-9847-BB50792F0A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D4FE2F-EEF6-49F9-9847-BB50792F0A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
