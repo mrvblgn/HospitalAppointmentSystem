@@ -1,3 +1,3 @@
 namespace HospitalAppointmentSystem.WebApi.Dtos.Appointments.Requests;
 
-public record CreateAppointmentRequest();
+public sealed record CreateAppointmentRequest(string PatientName, DateTime AppointmentDate, int DoctorId);

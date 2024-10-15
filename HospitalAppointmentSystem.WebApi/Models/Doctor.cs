@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 using HospitalAppointmentSystem.WebApi.Models.Enums;
 
 namespace HospitalAppointmentSystem.WebApi.Models;

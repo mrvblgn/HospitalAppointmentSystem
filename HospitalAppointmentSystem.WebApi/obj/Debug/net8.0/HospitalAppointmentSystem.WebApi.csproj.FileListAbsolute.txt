@@ -134,3 +134,5 @@
 /Users/mervebilgin/RiderProjects/HospitalAppointmentSystem/HospitalAppointmentSystem.WebApi/obj/Debug/net8.0/HospitalAppointmentSystem.WebApi.pdb
 /Users/mervebilgin/RiderProjects/HospitalAppointmentSystem/HospitalAppointmentSystem.WebApi/obj/Debug/net8.0/HospitalAppointmentSystem.WebApi.genruntimeconfig.cache
 /Users/mervebilgin/RiderProjects/HospitalAppointmentSystem/HospitalAppointmentSystem.WebApi/obj/Debug/net8.0/ref/HospitalAppointmentSystem.WebApi.dll
+/Users/mervebilgin/RiderProjects/HospitalAppointmentSystem/HospitalAppointmentSystem.WebApi/bin/Debug/net8.0/AutoMapper.dll
+/Users/mervebilgin/RiderProjects/HospitalAppointmentSystem/HospitalAppointmentSystem.WebApi/obj/Debug/net8.0/HospitalAppointmentSystem.WebApi.sourcelink.json
